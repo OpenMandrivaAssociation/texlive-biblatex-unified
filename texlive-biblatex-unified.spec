@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-unified
 Version:	64975
-Release:	1
+Release:	2
 Summary:	BibLaTeX implementation of the unified stylesheet for linguistics journals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-unified
