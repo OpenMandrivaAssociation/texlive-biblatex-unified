@@ -3,7 +3,7 @@ Version:	64975
 Release:	2
 Summary:	BibLaTeX implementation of the unified stylesheet for linguistics journals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-unified
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-unified
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-unified.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-unified.doc.r%{version}.tar.xz
